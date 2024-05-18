@@ -1,0 +1,110 @@
+Sure, here are some common terms in cybersecurity along with their definitions:
+
+1. **Antivirus**: Software designed to detect, prevent, and remove malware.
+
+2. **Authentication**: The process of verifying the identity of a user or system.
+
+3. **Botnet**: A network of infected devices controlled by a hacker to perform tasks like sending spam or launching attacks.
+
+4. **DDoS (Distributed Denial of Service)**: An attack that overwhelms a system with traffic to make it unavailable to users.
+
+5. **Encryption**: The process of converting data into a code to prevent unauthorized access.
+
+6. **Firewall**: A security system that controls incoming and outgoing network traffic based on predetermined security rules.
+
+7. **Malware**: Malicious software designed to harm or exploit devices, networks, or services.
+
+8. **Phishing**: A technique used to trick users into providing personal information by pretending to be a legitimate entity.
+
+9. **Ransomware**: A type of malware that encrypts a user's data and demands payment for the decryption key.
+
+10. **Social Engineering**: Manipulating people into divulging confidential information.
+
+11. **Spyware**: Software that secretly monitors and collects information about a user's activities.
+
+12. **Trojan Horse**: Malware disguised as legitimate software.
+
+13. **Vulnerability**: A weakness in a system that can be exploited by a threat actor.
+
+14. **Zero-Day Exploit**: An attack that targets a previously unknown vulnerability.
+
+15. **Intrusion Detection System (IDS)**: A system that monitors network traffic for suspicious activity.
+
+16. **Multi-Factor Authentication (MFA)**: A security system that requires multiple forms of identification before granting access.
+
+17. **Penetration Testing**: A method used to evaluate the security of a system by simulating an attack.
+
+18. **Rootkit**: Software designed to hide the presence of malware from the user and security software.
+
+19. **SQL Injection**: A code injection technique that exploits vulnerabilities in an application's software.
+
+20. **Zero Trust Architecture**: A security model that requires strict identity verification for every person and device trying to access resources on a network, regardless of whether they are inside or outside the network perimeter.
+Certainly! Here are additional cybersecurity terms:
+
+21. **Adware**: Software that automatically displays or downloads advertising material when a user is online.
+
+22. **Backdoor**: A method of bypassing normal authentication to access a system, often left by the system’s developers for troubleshooting or by attackers for later use.
+
+23. **Brute Force Attack**: A trial-and-error method used to decode encrypted data such as passwords.
+
+24. **Certificate Authority (CA)**: An entity that issues digital certificates used to verify the identity of entities and secure communications.
+
+25. **Cyberespionage**: The act of using cyber tools and techniques to obtain secret information without permission, typically for political or military purposes.
+
+26. **Cyber Hygiene**: Practices and steps that users and organizations take to maintain system health and improve online security.
+
+27. **Data Breach**: An incident where information is stolen or taken from a system without the knowledge or authorization of the system’s owner.
+
+28. **Digital Forensics**: The process of uncovering and interpreting electronic data for use in a court of law.
+
+29. **Exploit**: A piece of code or a method that takes advantage of a vulnerability to perform unauthorized actions.
+
+30. **Honeypot**: A security mechanism set to detect, deflect, or study attempts at unauthorized use of information systems.
+
+31. **Insider Threat**: A security risk that comes from within the organization, such as an employee or contractor.
+
+32. **Man-in-the-Middle (MitM) Attack**: An attack where the attacker secretly intercepts and relays messages between two parties who believe they are communicating directly with each other.
+
+33. **Patch Management**: The process of managing software updates to fix vulnerabilities and improve functionality.
+
+34. **Public Key Infrastructure (PKI)**: A framework for creating a secure method for exchanging information based on public key cryptography.
+
+35. **Sandboxing**: A security mechanism for separating running programs to prevent malware from spreading.
+
+36. **Session Hijacking**: An attack where a user session is taken over by an attacker.
+
+37. **Sniffing**: The act of monitoring and capturing data packets passing through a network.
+
+38. **Spear Phishing**: A more targeted form of phishing where attackers customize their attack messages to a specific individual or organization.
+
+39. **Threat Intelligence**: Information about threats and threat actors that helps in preventing or mitigating attacks.
+
+40. **Virtual Private Network (VPN)**: A technology that creates a secure, encrypted connection over a less secure network, such as the internet.
+
+41. **Whitelisting**: A security approach that allows only pre-approved applications, users, or processes to access the system.
+
+42. **Zero-Day Vulnerability**: A software vulnerability unknown to those who should be interested in mitigating the vulnerability, including the vendor of the target software.
+
+43. **Cross-Site Scripting (XSS)**: A type of security vulnerability typically found in web applications that allows attackers to inject malicious scripts.
+
+44. **Drive-by Download**: A download that occurs without a person's knowledge, often via a compromised website.
+
+45. **Keylogger**: A type of surveillance software that records keystrokes made by a user to capture sensitive information like passwords.
+
+46. **Logic Bomb**: Malicious code that triggers a negative action when certain conditions are met.
+
+47. **Network Segmentation**: The practice of dividing a network into smaller, distinct sub-networks to improve security and performance.
+
+48. **Pharming**: Redirecting a website's traffic to a fraudulent website without the user’s knowledge.
+
+49. **Security Information and Event Management (SIEM)**: A system that aggregates and analyzes activity from different resources across your IT infrastructure to detect security threats in real-time.
+
+50. **Spoofing**: The act of disguising communication from an unknown source as being from a known, trusted source.
+
+51. **Tokenization**: The process of replacing sensitive data with unique identification symbols that retain all the essential information about the data without compromising its security.
+
+52. **Watering Hole Attack**: A strategy where attackers infect websites that are frequently visited by members of a specific group or organization.
+
+53. **Whaling**: A type of phishing attack that targets high-profile individuals like executives or managers.
+
+54. **Zombie**: A computer connected to the internet that has been compromised by a hacker, virus, or trojan horse and can be used to perform malicious tasks under remote direction.
